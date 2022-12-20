@@ -12,5 +12,5 @@ Pensiamo a quali entità (tabelle) creare per il nostro database e cerchiamo poi
 
 n => qualsiasi numero, zero o più
 1 => uno
-1..n => da uno a qualsiasi numero
+1..n => da uno a qualsiasi numero.
      
